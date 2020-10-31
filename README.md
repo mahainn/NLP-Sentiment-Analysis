@@ -1,4 +1,4 @@
 # NLP-Sentiment-Analysis
 
 In this repo, we are basically working on Sentiment Analysis on tweets 
-Working on a database with 14 different labelled emotions using sequence models
+Working on a database with 14 different labelled emotions using sequence models (LSTM)
